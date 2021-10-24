@@ -1,0 +1,23 @@
+
+#headSection{
+    width: 100%;
+    height: auto;
+    /* margin-left: 10px; */
+    /* display: flex; */
+    /* justify-content: center; */
+    margin-top: 30px;
+    align-items: center;
+    margin-right: 10px;
+    margin-bottom: 30px;   
+}
+
+
+#headSection #image{
+    position: inherit;
+    /* margin-left: -46px; */
+    /* margin-right: 195px; */
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
